@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Dynamic Quiz</h1>
+    <div id="quiz-box">
+        <h2 id="question">Loading question...</h2>
+
+        <div id="options"></div>
+
+        <button id="next-btn" class="btn" disabled>Next</button>
+    </div>
+
+    <div id="result-box" class="hidden">
+        <h2>Your Score</h2>
+        <p id="score"></p>
+        <button id="restart-btn" class="btn">Restart Quiz</button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

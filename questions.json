@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which language runs in a web browser?",
+        "options": ["Java", "C", "Python", "JavaScript"],
+        "answer": 3
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Colorful Style Sheet", "Computer Style Sheet", "Coding Style System"],
+        "answer": 0
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Trainer Marking Language", "HyperText Markup Language", "Hyperlinks Text Mark Language", "Home Tool Markup Language"],
+        "answer": 1
+    },
+    {
+        "question": "Which tag is used to write JavaScript in HTML?",
+        "options": ["<javascript>", "<script>", "<js>", "<code>"],
+        "answer": 1
+    },
+    {
+        "question": "Which HTML element is used to display a title in the browser tab?",
+        "options": ["<meta>", "<title>", "<header>", "<tab>"],
+        "answer": 1
+    }
+]
