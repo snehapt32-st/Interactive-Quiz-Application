@@ -30,4 +30,5 @@ Overall, the Interactive Quiz Application proved to be a valuable internship pro
 
 #OUTPUT
 
+<img width="1357" height="683" alt="Image" src="https://github.com/user-attachments/assets/df5399d1-b18b-485f-b1f7-2cdb98306a6e" />
 
